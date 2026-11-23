@@ -192,3 +192,6 @@ bin/
 
 # VS Code
 .vscode/
+
+# Variables de entorno locales
+.env

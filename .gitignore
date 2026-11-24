@@ -195,3 +195,9 @@ bin/
 
 # Variables de entorno locales
 .env
+
+#Unity
+Library/
+Temp/
+Logs/
+obj/
